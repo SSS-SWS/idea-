@@ -11,6 +11,7 @@ public class HelloController {
    @ResponseBody
     public String hello() {
        System.out.println("创建sit。。");
+       System.out.println("添加主干");
         return "hello world..";
     }
 }
