@@ -14,6 +14,9 @@ public class HelloController {
        System.out.println("添加主干");
        System.out.println("创建dev。。");
        System.out.println("分支添加");
+       
+       System.out.println("更新练习。。");
+       
         return "hello world..";
     }
 }
