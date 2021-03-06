@@ -12,6 +12,8 @@ public class HelloController {
     public String hello() {
        System.out.println("创建sit。。");
        System.out.println("添加主干");
+       System.out.println("创建dev。。");
+       System.out.println("分支添加");
         return "hello world..";
     }
 }
